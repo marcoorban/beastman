@@ -1,0 +1,54 @@
+Power ups:
+-Wall Jump
+-Double Jump
+-Dash
+-Tackle/Slide
+
+Areas:
+	-Beastman's Jungle:
+		Starting level, pretty chill, mostly platforming
+		
+	-Golden Vault:
+		Kind of a main hub, connects to all other areas
+		Made of gold
+		
+	-Marble Mansion (Fancy living quarters)
+		Multiple ways to get here
+		Has a pool
+		
+	-Manbeast's Skyscraper or Colosseum (Lair)
+		Mostly combat
+		Glass tower
+		
+Enemies and obstacles
+
+	Environmental:
+		-Spikes
+		-Falling platforms
+		
+	Jungle:
+		-Bat?
+		-Practice dummies?
+	
+	Vault:
+		-Guard (buff brute type)
+		-Banker (Throws coins at you)
+		
+	Mansion:
+		-Maid or servants (Kung fu maid wink wink?)
+
+	Lair:
+		-Army dudes (Manbeast's personal army, throws grenades or molotovs?)
+
+Key items
+
+	Elevator cards
+		To access and go to different levels in the Golden Vault
+
+	Gold coins
+		Collectable, open doors in the Golden Vault
+		
+	Bedroom key 
+		To open door in the Marble Mansion, maybe get item to get good ending?
+
+	
